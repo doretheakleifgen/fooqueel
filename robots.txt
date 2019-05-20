@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soeteeyoh.modakoda.com/sitemap.xml
